@@ -1,5 +1,5 @@
 import math
-from mod import sum_of_squares
+from lab2p22 import sum_of_squares
 
 def calculate_z (x, y):
   z = math.cos(2 * x) + math.sin(2 * y)
