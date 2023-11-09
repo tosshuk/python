@@ -1,0 +1,5 @@
+Hello world!
+My name is Anton
+Python programming is fun.
+Have a great day.
+I study at group IT-21
